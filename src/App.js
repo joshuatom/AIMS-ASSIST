@@ -122,7 +122,7 @@ function SidebarChat() {
   return (
     <aside className="chat-sidebar">
       <div className="chat-header">
-        <span style={{fontWeight: 800}}>MindBot <span>v2.5</span></span>
+        <span style={{fontWeight: 800}}>Mind Fley <span>v2.5</span></span>
         <div style={{fontSize: '11px', color: '#10b981', fontWeight: 600}}>CONNECTED</div>
       </div>
       <div className="chat-messages">
